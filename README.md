@@ -1,4 +1,4 @@
-= Drupal 8 demo for Ubuntu 15.10
+# Drupal 8 demo for Ubuntu 15.10
 
 Here's how to install Drupal 8 using Composer and Drush.
 
